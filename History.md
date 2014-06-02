@@ -1,3 +1,8 @@
+unreleased
+==========
+
+ * fix behavior when handling request without routes
+
 4.4.0 / 2014-05-30
 ==================
 
